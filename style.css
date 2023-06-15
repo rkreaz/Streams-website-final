@@ -1,0 +1,255 @@
+.header_image {
+    margin-top: 48px;
+}
+
+.start_stream {
+    margin-top: 102px;
+}
+
+.start_stream_title {
+    color: #000000;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 60px;
+}
+
+.start_stream_pra {
+    color: rgba(0, 0, 0, 0.7);
+    margin-top: 16px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.start_stream_bottom {
+    padding: 20px 175px;
+    margin-top: 35px;
+    background: #FFBB1F;
+    border: 2px solid #000000;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.06);
+    border-radius: 15px;
+}
+
+.start_bottom_pra {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+}
+
+.logo_container {
+    margin-top: 130px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 67px;
+
+}
+
+.video_placeholder {
+    margin-top: 196px;
+    background: #000000;
+    border-radius: 50px;
+}
+
+.what_streams {
+    text-align: center;
+    margin-top: 196px;
+}
+
+.what_streams_title {
+    margin-bottom: 50px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 67px;
+    color: #000000;
+
+}
+
+.text_start {
+    margin-left: 40px;
+}
+
+.card_title {
+
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 31px;
+    line-height: 47px;
+    color: #000000;
+
+}
+
+.card_pra {
+    margin-top: 12px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 32px;
+    color: rgba(0, 0, 0, 0.7);
+}
+
+.teem_area {
+    margin-top: 155px;
+}
+
+.teem_name {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 34px;
+    color: #000000;
+
+}
+
+.teem_ceo {
+    margin-top: 6px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    color: #A1A1A1;
+}
+
+.teem_pra {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    color: rgba(0, 0, 0, 0.7);
+
+}
+
+.teem_body {
+    margin-left: 20px;
+
+}
+
+.logos_container {
+    margin-top: 130px;
+    margin-bottom: 220px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 45px;
+}
+
+.text_starts {
+    margin-left: 75px;
+}
+
+.connect_left {
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
+.connect_title {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 31px;
+    line-height: 47px;
+    color: #000000;
+}
+
+.connect_pra {
+    margin-top: 12px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 32px;
+    color: rgba(0, 0, 0, 0.7);
+}
+
+.connect_gap {
+    margin-right: 75px;
+}
+
+.join_bottom {
+    margin-top: 280px;
+    padding: 38px 353px;
+    gap: 10px;
+    background: #FFBB1F;
+    border: 5px solid #000000;
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+}
+
+.join_bottom_pra {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 41px;
+    color: #000000;
+
+}
+
+.Streams_faq {
+    margin-top: 245px;
+    margin-bottom: 120px;
+    text-align: center;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 67px;
+    color: #000000;
+}
+
+.Streams {
+    margin-bottom: 90px;
+    padding-right: 40px;
+}
+
+.Streams_title {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 34px;
+    color: #000000;
+}
+
+.Streams_pra {
+    margin-top: 10px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 27px;
+    color: rgba(0, 0, 0, 0.7);
+
+}
+
+.footer_area {
+    background-color: #000000;
+}
+
+.footer_image {
+    margin-top: 162px;
+    margin-bottom: 162px;
+}
+
+.footer_area p {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    color: #FFFFFF;
+
+
+}

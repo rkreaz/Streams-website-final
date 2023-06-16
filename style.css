@@ -234,7 +234,8 @@
 
 }
 
-.footer_area {
+.footer_area_all {
+    margin-top: 145px;
     background-color: #000000;
 }
 
